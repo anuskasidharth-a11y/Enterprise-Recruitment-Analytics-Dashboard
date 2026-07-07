@@ -1,2 +1,1 @@
-# Enterprise-Recruitment-Analytics-Dashboard
-Power BI dashboard analyzing an end-to-end enterprise recruitment pipeline using recruitment KPIs, sourcing analytics, recruiter performance, diversity insights, and hiring funnel metrics.
+Power BI dashboard analyzing an enterprise recruitment funnel — tracking 1,200 candidates across departments, recruiters, and locations, with DAX-driven KPIs, funnel analysis, and diversity insights.
